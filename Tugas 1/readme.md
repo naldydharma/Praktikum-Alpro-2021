@@ -1,4 +1,4 @@
-## Praktikum Algoritma & Pemrograman 2021-1
+## TUGAS 1
 
-- Nama : **Muhammad Rainaldy Dharmawan**
-- NIM : **123210087**
+- Program tabel data mahasiswa
+- Konversi suhu c ke f, k, r
