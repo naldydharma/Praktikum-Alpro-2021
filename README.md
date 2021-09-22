@@ -1,4 +1,4 @@
-# Praktikum-Alpro-2021
+# Praktikum Algoritma & Pemrograman
 
-Muhammad Rainaldy Dharmawan
-123210087
+- Nama  : **Muhammad Rainaldy Dharmawan**
+- NIM   : **123210087**
